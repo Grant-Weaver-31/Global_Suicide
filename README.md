@@ -23,9 +23,9 @@ The dataset gave us the "who" and "where." It would be interesting to explore mo
 Built With
 This project was built using the following frameworks/libraries:
 
-Python
-Pandas
-Matplotlib
-NumPy
-SciPy
-Seaborn
+- Python
+- Pandas
+- Matplotlib
+- NumPy
+- SciPy
+- Seaborn
