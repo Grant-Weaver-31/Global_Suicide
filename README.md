@@ -4,7 +4,7 @@ I retrieved data from Kaggle.com to observe trends in global suicide rates from 
 
 
 ## About the Project
-Our team narrowed down our scope of years to 1990-2015. We chose to use our data to answer the following questions:
+I narrowed down the scope of years to 1990-2015. I chose to use our data to answer the following questions:
 
 - What are the global trends in suicide?
 - Does gender play a role in suicide?
